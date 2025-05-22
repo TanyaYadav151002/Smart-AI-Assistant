@@ -1,0 +1,43 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+env/
+venv/
+.venv
+.env
+
+# IDE or editor files (e.g., VS Code, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python distribution packages
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Test / coverage reports
+*.cover
+*.tox/
+*.nox/
+*.coverage
+*.hypothesis/
+.coverage.*
+nosetests.xml
+coverage.xml
+*.log
+
+# PyInstaller
+*.spec
+
+# Cython debug symbols
+cython_debug/
+
+# Other potential temporary files
+.DS_Store
+Thumbs.db
